@@ -1,5 +1,3 @@
-import * as React from "react";
-import { Separator } from "@base-ui-components/react/separator";
 import Link from "next/link";
 
 const navLink = [
