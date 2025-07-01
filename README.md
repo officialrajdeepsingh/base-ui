@@ -4,6 +4,10 @@ Learn How to Use Base UI with Next.js 15: A Beginner's Guide.
 
 ---
 
+> [How to Use Base UI with Next.js 15 to Build Web Apps?](https://medium.com/frontendweb/how-to-use-base-ui-with-next-js-15-to-build-web-apps-9fabeb4cbfdd)
+
+---
+
 ## Getting Started
 
 The first step is to clone the **base-ui** project with a git command.
